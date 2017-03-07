@@ -1,0 +1,4 @@
+Siddhi is a query language that is used to identify complex events and process them real time. An execution plan that consists of a series of queries a unit of functionality that performs an Analytics task.
+A Siddhi application is defined in one or more files. 
+If the application is defined in a single file, its name is the same as the file name.
+If the appellation is defined in multiple files, all the files need to be included in a zip file, and the application is then given the name of the zip file. All the constructs (e.g., streams) in different files of the same zip are visible to each other.
